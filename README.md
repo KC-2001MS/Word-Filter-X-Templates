@@ -16,3 +16,13 @@ This template allows you to set words to be blocked.
 1. Download files from this repository.
 2. Select the json file of the settings you want to reflect.
 3. Open the Word Filter X application and import from the "Import" button.
+
+## Supporting
+
+If you would like to make a donation to this project, please click here. The money you give will be used to improve my programming skills and maintain the application.
+
+[Pay by PayPal](https://paypal.me/iroiroWork?country.x=JP&locale.x=ja_JP)
+
+## About Licenses
+
+This is not software, just data. As such, I declare that it is not a copyrighted work and that no license exists.
