@@ -1,15 +1,11 @@
 {
-  "compatibility" : [
-    "Word filter X v1.1+"
-  ],
-  "replacedWord" : "見せられないよ",
-  "wordColor" : [
-    0,
-    0.9777190089225769,
-    0.49641305208206177,
-    1
-  ],
-  "description" : "このjsonファイルを利用することによって、以下の互換性のあるアプリケーションで単語やURLなどの設定を取り込むことができます。",
+  "info" : {
+    "name" : "Word Filter X",
+    "compatibility" : [
+      "Word filter X v1.1+"
+    ],
+    "description" : "This json file allows compatible applications to capture words, URLs, and other settings."
+  },
   "words" : [
     "頭おかしい",
     "うんこ",
@@ -89,16 +85,5 @@
     "市ね",
     "詩ね",
     "基知害"
-  ],
-  "name" : "Word Filter X",
-  "URLs" : [
-    "onedrive.live.com",
-    "docs.google.com",
-    "translate.google.com",
-    "deepl.com",
-    "script.google.com",
-    "developer.apple.com",
-    "appstoreconnect.apple.com",
-    "chat.openai.com"
   ]
 }

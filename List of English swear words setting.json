@@ -1,7 +1,11 @@
 {
-  "compatibility" : [
-    "Word filter X v1.1+"
-  ],
+  "info" : {
+    "name" : "Word Filter X",
+    "compatibility" : [
+      "Word filter X v1.1+"
+    ],
+    "description" : "このjsonファイルを利用することによって、以下の互換性のあるアプリケーションで単語やURLなどの設定を取り込むことができます。"
+  },
   "words" : [
     "diot ",
     "foolish ",
@@ -59,7 +63,5 @@
     ":-\/",
     "(:-)",
     ":@)"
-  ],
-  "name" : "Word Filter X",
-  "description" : "このjsonファイルを利用することによって、以下の互換性のあるアプリケーションで単語やURLなどの設定を取り込むことができます。"
+  ]
 }
