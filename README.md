@@ -13,7 +13,7 @@ This template allows you to set words to be blocked.
 
 ## How to Use
 
-1. Download files from this repository.
+1. [Download](https://github.com/KC-2001MS/Word-Filter-X-Templates/archive/refs/heads/master.zip) files from this repository.
 2. Select the json file of the settings you want to reflect.
 3. Open the Word Filter X application and import from the "Import" button.
 
